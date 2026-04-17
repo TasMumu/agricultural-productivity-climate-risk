@@ -106,7 +106,23 @@ Climate risk alone does not significantly reduce total production output
 
 ---
 
+### Spatial Distribution
+![Spatial Distribution](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/44ebbf979ffe7b0270ea729525f7952fe5871b1b/Visualizations/spatial%20distribution.png)
 
+**Spatial Interpretation**
+
+Climate risk and food availability do not show a clear inverse spatial pattern across Asia. Several high-risk regions (e.g., Southeast Asia) maintain relatively high per capita production, while some lower-risk areas exhibit moderate or low availability.
+
+---
+
+### Crop Group Heatmap
+![crop group heatmap](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/44ebbf979ffe7b0270ea729525f7952fe5871b1b/Visualizations/crop%20group%20heatmap.png)
+
+Top countries by total production:
+'China', 'India', 'Indonesia', 'Thailand', 'Pakistan', 'Turkey', 'Vietnam', 'Malaysia', 'Bangladesh', 'Philippines'
+
+
+---
 ## 1. Research Context and Objectives
 
 ### Background
