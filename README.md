@@ -235,20 +235,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
-
-## 8. Project Structure
-
-```id="6ys1n9"
-climate-risk-agriculture/
-├── data/
-├── notebooks/
-├── scripts/
-├── outputs/
-│   └── figures/
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -270,9 +256,4 @@ Data Engineer | Climate Data Science · Agricultural Systems
 
 ---
 
-## Final Note
-
-**Open Data · Reproducible Research · Climate Analytics**
-
----
 
