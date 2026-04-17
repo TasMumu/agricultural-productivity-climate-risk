@@ -15,7 +15,7 @@
 **Geographic Scope:** 24 Asian Nations
 
 **Author:** Tasnim Ahmad Mumu
-Data Analyst | Climate Data Science & Agricultural Systems
+Data Engineer 
 
 ---
 
